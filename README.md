@@ -1,2 +1,5 @@
 # News-app-using-python
-In this I have created a news app with tkinter python 
+
+it's a basic news application which fetches the news from https://newsapi.org/
+
+Built using Python's Tkinter library and leveraging Object-Oriented Programming (OOP) principles
